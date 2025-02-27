@@ -90,9 +90,9 @@
 
     - Risk Management: Agile's iterative nature allows for early detection and correction of issues, reducing risks over time. Waterfall may not reveal problems until later 
       stages, potentially leading to more significant setbacks.
-
-    . Advantages
+      
     Agile:
+    . Advantages
           - Adaptability: Responds well to evolving requirements and market conditions.
           - Customer Satisfaction: Regular updates and iterations keep stakeholders engaged and informed.
           - Early Problem Detection: Frequent testing and reviews facilitate prompt issue resolution.
@@ -100,8 +100,9 @@
           - Scope Creep: Flexibility can lead to uncontrolled changes and project expansion.
           - Resource Intensive: Requires active collaboration and can demand more time from stakeholders.
           - Less Predictable: Continuous changes can make it difficult to predict timelines and costs accurately.
+          
+     Waterfall:
     . Advantages 
-    Waterfall:
           - Structured Approach: Clear, sequential stages provide a straightforward path from start to finish.
           - Comprehensive Documentation: Detailed records support maintenance and knowledge transfer.
           - Predictability: Defined scope and timelines aid in resource planning and budgeting.
